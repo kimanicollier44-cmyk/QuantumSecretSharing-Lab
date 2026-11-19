@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](QuantumSecretSharing-Lab%20cover.png)
 
 # QuantumSecretSharing-Lab 🔐⚛️
 
